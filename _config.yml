@@ -29,7 +29,7 @@ author:
   pubmed           : 
   # googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "yatianshen@henu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  #researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : "yatianshen"
   google_plus      :
   keybase          :
   instagram        :
@@ -161,4 +161,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
