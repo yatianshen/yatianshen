@@ -28,7 +28,7 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : 
-  email            : "yatianshen@henu.edu.cn"
+  email            : "sy602@126.com"
   researchgate     : 
   uri              : 
   bitbucket        :
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
