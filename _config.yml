@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "沈亚田"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/shenyatian.jpg"
   bio              : "河南大学"
   location         : "河南 郑州"
   employer         : #"Hefei General Machinery Research Institute"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
