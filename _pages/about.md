@@ -140,7 +140,7 @@ redirect_from:
 
 ### 专利
 ---
-- 沈亚田;孙俊;张磊;韩道军;基于长短时和自注意力神经网络的微博话题标签确定方法，2023-4-18，CN110334189B. [网页](https://kns.cnki.net/kcms2/article/abstract?v=9oehDy4zW5ajww7IYEga46awdZtKnGn4kvK5b5lw9B2O_YTkIe6z1J2KXQTGqIsdSdxm23pIc1XtYp4FTvHJQ_5ANKqwfs-9ySblpTLgk0k7qosbsXfkCpLI5v5KtPah744CpJydDk_IL1h1xjTGcAQ2s898EY9WAxAs9TOe-VzyHbYnxBMcHQ==&uniplatform=NZKPT&language=CHS)
+- 沈亚田;孙俊;张磊;韩道军;基于长短时和自注意力神经网络的微博话题标签确定方法，2023-4-18，CN110334189B. [[网页]](https://kns.cnki.net/kcms2/article/abstract?v=9oehDy4zW5ajww7IYEga46awdZtKnGn4kvK5b5lw9B2O_YTkIe6z1J2KXQTGqIsdSdxm23pIc1XtYp4FTvHJQ_5ANKqwfs-9ySblpTLgk0k7qosbsXfkCpLI5v5KtPah744CpJydDk_IL1h1xjTGcAQ2s898EY9WAxAs9TOe-VzyHbYnxBMcHQ==&uniplatform=NZKPT&language=CHS)
 
 
 
@@ -165,6 +165,7 @@ redirect_from:
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
