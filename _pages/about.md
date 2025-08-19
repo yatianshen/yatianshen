@@ -35,7 +35,8 @@ redirect_from:
 # 🎓 学历
 - *2001.09 - 2004.07*, <a href="https://www.zzu.edu.cn/"><img class="png" src="/images/zhengzhou.png" width="23pt"></a> 郑州大学 计算机与人工智能学院, 河南郑州, 本科 
 - *2006.09 - 2009.07*, <a href="https://www.henu.edu.cn/"><img class="png" src="/images/henan.png" width="23pt"></a> 河南大学 计算机与信息工程学院, 河南郑州, 硕士 
-- *2010.09 - 2017.07*, <a href="https://www.fudan.edu.cn/"><img class="jpg" src="https://github.com/yatianshen/yatianshen/blob/master/images/fudan.jpg" width="23pt"></a> 复旦大学 计算与创新学院, 上海, 博士
+- *2010.09 - 2017.07*, <a href="https://www.fudan.edu.cn/"><img class="jpg" src="https://raw.githubusercontent.com/yatianshen/yatianshen/master/images/fudan.jpg" width="23pt"></a> 复旦大学 计算与创新学院, 上海, 博士
+
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -164,6 +165,7 @@ redirect_from:
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊
 
 <span class='anchor' id='-gzsx'></span>
+
 
 
 
