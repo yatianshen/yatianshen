@@ -30,8 +30,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2006.09 - 2009.07*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 河南大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2010.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2006.09 - 2009.07*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 河南大学 计算机与信息工程学院, 河南郑州, 硕士研究生 
+- *2010.09 - 2017.07*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 复旦大学 计算与创新学院, 上海, 博士研究生
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -167,4 +167,5 @@ redirect_from:
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+
 
