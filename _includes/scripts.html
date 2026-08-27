@@ -1,4 +1,24 @@
 <script src="assets/js/main.min.js"></script>
 
+<script>
+  $(document).ready(function () {
+    // 顶部导航：用原生滚动，避免 smoothScroll 插件拦截后无法跳转
+    $('.js-scroll-nav').on('click', function (e) {
+      e.preventDefault();
+      e.stopImmediatePropagation();
+      var id = this.getAttribute('href').replace(/^#/, '');
+      var el = document.getElementById(id);
+      if (el) {
+        var top = el.getBoundingClientRect().top + window.pageYOffset - 80;
+        window.scrollTo({ top: top, behavior: 'smooth' });
+        history.replaceState(null, '', '#' + id);
+      }
+    });
+
+    // 外部链接在新标签页打开
+    $('a[href^="http"]').attr('target', '_blank').attr('rel', 'noopener noreferrer');
+  });
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
