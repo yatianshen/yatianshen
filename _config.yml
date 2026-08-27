@@ -8,7 +8,9 @@
 # Site Settings
 title                    : "沈亚田"
 description              : "自然语言处理"
-repository               : "yatianshen/yatianshen.github.io"
+url                      : "https://yatianshen.github.io"
+baseurl                  : "/yatianshen"
+repository               : "yatianshen/yatianshen"
 google_scholar_stats_use_cdn : true
 
 # google analytics
