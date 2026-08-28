@@ -66,7 +66,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 -	`Yatian Shen`, Chaohao Qi, Guosong Deng,  Songyang Wang, Eryan Zhang. TAG: Dialogue Summarization Based on Topic Segmentation and Graph Structuresn. *CCL*. 2025. (EI)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/TAG.pdf)
+[[网页]](https://link.springer.com/chapter/10.1007/978-981-95-2725-0_20) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/TAG.pdf)
 </div>
 </div>
 
