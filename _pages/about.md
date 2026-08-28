@@ -49,7 +49,7 @@ redirect_from:
 
 -	`Yatian Shen`, Guosong Deng, Chaohao Qi, Songyang Wang, Yanli Xu, Daojun Han, Chengeng Lu. Dialogue relation extraction based on Multi-Perspective Contextual Interaction Attention Network. *Egyptian Informatics Journal*, 2025. (JCR:Q2; IF:4.2)  
 [[网页]](https://www.sciencedirect.com/science/article/pii/S111086652500235X) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Dialogue%20relation%20extraction%20based%20on%20Multi-Perspective%20Contextual.pdf) <a class="paper-github-link" href="[https://github.com/yatianshen/mpcian](https://github.com/thunlp/DocRED)" target="_blank" rel="noopener noreferrer" title="GitHub Code">
-  <img src="images/github.jpg" alt="GitHub" width="18" height="18" style="vertical-align:middle;">
+  <img src="images/github.jpg" alt="GitHub" width="22" height="22" style="vertical-align:middle;">
 </a>
 
 </div>
