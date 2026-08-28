@@ -62,12 +62,11 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL. 2025</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCL. 2025</div><img src='images/hqc2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yatian Shen`, Chaohao Qi, Guosong Deng,  Songyang Wang, Eryan Zhang. TAG: Dialogue Summarization Based on Topic Segmentation and Graph Structuresn. *CCL*. 2025. (EI)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
+[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/TAG.pdf)
 </div>
 </div>
 
