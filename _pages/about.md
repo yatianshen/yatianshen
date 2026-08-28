@@ -47,17 +47,17 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Egyptian Informatics Journal 2025</div><img src='images/dgs2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Guosong Deng`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://www.sciencedirect.com/science/article/pii/S111086652500235X) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Aggregation%20of%20Dialogue%20History%20Information%20and%20Utterance%20Slot%20Attention%20for%20Dialogue%20State%20Tracking.pdf)
+-	`Yatian Shen`, Guosong Deng, Chaohao Qi, Songyang Wang, Yanli Xu, Daojun Han, Chengeng Lu. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
+[[网页]](https://www.sciencedirect.com/science/article/pii/S111086652500235X) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Dialogue%20relation%20extraction%20based%20on%20Multi-Perspective%20Contextual.pdf)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCCA 2025</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Yatian Shen`, Guosong Deng, Chaohao Qi, Songyang Wang, Eryan Zhang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+[[网页]](https://link.springer.com/chapter/10.1007/978-981-95-5294-8_3) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Aggregation%20of%20Dialogue%20History%20Information%20and%20Utterance%20Slot%20Attention%20for%20Dialogue%20State%20Tracking.pdf)
 
 </div>
 </div>
