@@ -44,11 +44,11 @@ redirect_from:
 
 ### 英文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/dgs2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Egyptian Informatics Journal 2025</div><img src='images/dgs2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Guosong Deng`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://www.sciencedirect.com/science/article/pii/S111086652500235X) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Aggregation%20of%20Dialogue%20History%20Information%20and%20Utterance%20Slot%20Attention%20for%20Dialogue%20State%20Tracking.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://www.sciencedirect.com/science/article/pii/S111086652500235X) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Aggregation%20of%20Dialogue%20History%20Information%20and%20Utterance%20Slot%20Attention%20for%20Dialogue%20State%20Tracking.pdf)
 
 </div>
 </div>
