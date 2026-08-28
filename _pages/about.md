@@ -56,7 +56,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCCA 2025</div><img src='images/dgs2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Yatian Shen`, Guosong Deng, Chaohao Qi, Songyang Wang, Eryan Zhang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
+-	`Yatian Shen`, Guosong Deng, Chaohao Qi, Songyang Wang, Eryan Zhang. Aggregation of Dialogue History Information and Utterance-Slot Attention for Dialogue State Tracking. *NCCA*. 2025. (EI)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-981-95-5294-8_3) [[预览]](https://github.com/yatianshen/yatianshen/blob/master/docs/Aggregation%20of%20Dialogue%20History%20Information%20and%20Utterance%20Slot%20Attention%20for%20Dialogue%20State%20Tracking.pdf)
 
 </div>
